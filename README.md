@@ -4,6 +4,9 @@ LED-Goals is a personal project designed to help you track and visualize your lo
 
 I designed a custom PCB to connect the button, LED strip, and Arduino Nano together.
 
+## YouTube
+https://youtube.com/shorts/Iak79aCZ45Q?feature=share
+
 ## Hardware
 - **PCB**: Custom-designed PCB to hold the necessary components.
 - **LED Strip**: NeoPixel LED strip to visually represent your progress.
